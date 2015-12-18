@@ -1,0 +1,13 @@
+Monster
+Escape
+- Sound the monster makes when the player escapes him
+Heavy Breathing
+- Once in the beginning on the first encounter with every monster (room)
+Monster 1
+-loop with a 2sec interval (in each loop) with 1st monster
+Monster 2
+-loop with a 2sec interval (in each loop) with 2nd monster
+Monster 3
+-loop with a 2sec interval (in each loop) with 3rd monster
+Monster Static
+-Everytime player gets close to the monster

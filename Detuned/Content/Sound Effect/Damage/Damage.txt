@@ -1,0 +1,7 @@
+Damage
+Something falling
+-Optional just sound effect
+Tunk----> "Jump Scare"
+-optional if we want to have little jump scare
+Splat hit
+-everytime player gets closser and closer to monster (Loop if necessary)

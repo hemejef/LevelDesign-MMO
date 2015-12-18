@@ -1,0 +1,13 @@
+Sound Perso
+
+Click Sound 1,2,3
+-Happends when player interacts with radio (once every interaction)
+Heavy Breathing
+- Happends when player escapes monster (x2 and fades out)
+Men Screaming
+-Happens when player first encounters a monster (once every monster)
+Normal Breathing
+- When player is not detected (Loop and stops when attack)
+Steps 
+- Players step when not detected (loop ans stops when attack)
+
